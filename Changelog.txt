@@ -1,0 +1,22 @@
+Carbon 4.4.X ROM - Edited
+-------------------------
+Key - 
+
+a- alpha: early version
+s- stable: works with only 1 or 2 minor bugs
+u- untested: experimental version, test at own risk
+---------------------------------------------------
+Always make a backup before you flash a custom ROM!
+---------------------------------------------------
+Disclaimer:
+
+I am not responsible for bricked devices, dead SD cards,
+thermonuclear war, or you getting fired because the alarm app failed. Please
+do some research if you have any concerns about features included in this ROM
+before flashing it! YOU are choosing to make these modifications, and if
+you point the finger at me for messing up your device, I will laugh at you.
+---------------------------------------------------------------------------
+Changelog:
+
+0.01u - 1st November 2014 : Changed bootanimation.zip
+0.02u - 2nd November 2014 : Changed build number to "Edited Carbon ROM 4.4.X - 0.02u"
